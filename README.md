@@ -1,2 +1,14 @@
-# hr-employee-attrition-ashwith
-Python Machine Learning project on HR attrition solution. In this project we try to help HRs identify employees who are likely to leave the company.
+# HR ATTRITION MACHINE LEARNING
+
+
+
+
+![enter image description here](https://github.com/Ashwithjoel/hr-employee-attrition-ashwith/blob/main/Attrtion.png?raw=true)
+
+
+
+
+![enter image description here](https://github.com/Ashwithjoel/hr-employee-attrition-ashwith/blob/main/hr-analytics-10.jpg?raw=true)
+
+
+To check out my notebook please click [here](https://github.com/Ashwithjoel/hr-employee-attrition-ashwith/blob/main/HR_Analytics.ipynb)
